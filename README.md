@@ -25,16 +25,52 @@ Overall Theme:
 ![Screenshot 2024-02-25 014013](https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/61a8f7bb-7a5e-427e-8be6-3e76bf769ea7)
 ![Screenshot 2024-02-25 021854](https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/d56ac720-137f-41d3-bfd9-6076224ca5bf)
 
-#Technology Stack 
-Flutter
-Android Studio
-Google maps Platform 
-Chat GPT
-Fire base 
-Database
+# Technology Stack 
 
-#Demo video 
+
+*Flutter
+*Android Studio
+*Google maps Platform 
+*Chat GPT
+*Fire base 
+*Database
+
+# Demo video 
 https://youtu.be/NfGftbZy3EU?si=r7yMZ-HZxm4W4raF![create-a-logo-for-sustainable-cities-using-elememt-upscaled](https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/a54d5a05-81bf-4c8b-90e4-165a41047d0d)
+
+
+# How To Use 
+
+
+
+
+https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/347a0497-7e0e-4443-9c9f-e11edee390cf
+
+
+
+https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/4786530b-ae3f-48cf-96b8-7311ef29383b
+
+
+
+https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/312e2f88-6280-4f8f-9b09-1e0b3065ad4f
+
+
+# Mind Map
+![name](https://github.com/sridevisivakala/WasteWiseConnectApp/assets/141898505/28639a0f-d943-4420-a33c-e2dd9928d744)
+
+
+
+# How to Run
+
+https://drive.google.com/file/d/14zFDmp8tLWBWSADm6QsyXbUOUP0cwuZX/view?usp=sharing
+Download the app 
+
+
+
+
+
+
+
 
 
 
